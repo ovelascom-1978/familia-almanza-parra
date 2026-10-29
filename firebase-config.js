@@ -8,5 +8,4 @@ apiKey: "AIzaSyCF2RbLqhacLf8i346YsxogMoO8z0fs-7o",
   messagingSenderId: "871558779331",
   appId: "1:871558779331:web:6a2fb1b36cce2ca0fded76"
 };
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
+
