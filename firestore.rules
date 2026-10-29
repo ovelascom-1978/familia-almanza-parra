@@ -1,0 +1,11 @@
+rules_version = '2';
+service cloud.firestore {
+ match /databases/{database}/documents {
+  match /viajes/{room}/visitas/{placeId} {
+   allow read, write: if request.auth != null
+     && room.matches('[a-zA-Z0-9_-]{12,80}')
+     && placeId.matches('d[0-9]+p[0-9]+')
+     && (request.method == 'get' || request.method == 'list' || (request.resource.data.keys().hasOnly(['done','updated']) && request.resource.data.done is bool));
+  }
+ }
+}

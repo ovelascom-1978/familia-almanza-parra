@@ -1,0 +1,743 @@
+[
+  {
+    "number": 1,
+    "title": "Roma · Llegada",
+    "date": "Lunes 16 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d1p1",
+        "name": "Basílica de Santa María la Mayor",
+        "address": "Piazza di Santa Maria Maggiore, 00185 Roma."
+      },
+      {
+        "id": "d1p2",
+        "name": "Barrio de Monti",
+        "address": "Zona de Via Urbana y Via dei Serpenti, 00184 Roma."
+      },
+      {
+        "id": "d1p3",
+        "name": "Opcional Free Tour Nocturno (18:00 hr) duración 2 h",
+        "address": "Piazza del Popolo, 12, 00187 Roma RM, Italia"
+      }
+    ],
+    "notes": [
+      "TRASLADO DE AEROPUERTO A TERMINI POR LEONARDO EXPRESS, 14€ POR PERSONA",
+      "Nota: Se recomienda Descanso, ya que al dia siguiente hay que estar muy temprano en Termini para la salida a Pisa"
+    ],
+    "hotel": {
+      "name": "Hotel Santa Prassede",
+      "address": "Via di Santa Prassede 25, Roma, Italia"
+    }
+  },
+  {
+    "number": 2,
+    "title": "Pisa → Florencia → Roma",
+    "date": "Martes 17 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d2p1",
+        "name": "Piazza dei Cavalieri (Pisa)",
+        "address": "Piazza dei Cavalieri, 56126 Pisa."
+      },
+      {
+        "id": "d2p2",
+        "name": "Piazza dei Miracoli (Pisa)",
+        "address": "Piazza del Duomo, 56126 Pisa."
+      },
+      {
+        "id": "d2p3",
+        "name": "Torre Inclinada de Pisa",
+        "address": "Piazza del Duomo, 56126 Pisa. Exterior."
+      },
+      {
+        "id": "d2p4",
+        "name": "Conjunto monumental de Pisa",
+        "address": "Piazza del Duomo, 56126 Pisa."
+      },
+      {
+        "id": "d2p5",
+        "name": "Galería de la Academia Firenze(14:30 hr)",
+        "address": "Via Ricasoli 58/60, 50122 Firenze."
+      },
+      {
+        "id": "d2p6",
+        "name": "Catedral de Santa María del Fiore (Duomo)",
+        "address": "Piazza del Duomo, 50122 Firenze. Interior condicionado."
+      },
+      {
+        "id": "d2p7",
+        "name": "Galería Uffizi (16:15 hr)",
+        "address": "Piazzale degli Uffizi 6, 50122 Firenze."
+      },
+      {
+        "id": "d2p8",
+        "name": "Piazza della Signoria",
+        "address": "Piazza della Signoria, 50122 Firenze."
+      },
+      {
+        "id": "d2p9",
+        "name": "Fontana del Porcellino",
+        "address": "Piazza del Mercato Nuovo, 50123 Firenze."
+      },
+      {
+        "id": "d2p10",
+        "name": "Ponte Vecchio",
+        "address": "Ponte Vecchio, 50125 Firenze."
+      }
+    ],
+    "notes": [
+      "Nota: la opcion de una Ventana de copa como Babae, queda opcional si hay tiempo entre La Academia y Galeria Uffizi"
+    ],
+    "hotel": {
+      "name": "Hotel Santa Prassede",
+      "address": "Via di Santa Prassede 25, Roma, Italia"
+    }
+  },
+  {
+    "number": 3,
+    "title": "Roma antigua y centro",
+    "date": "Miércoles 18 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d3p1",
+        "name": "Basílica de Santa Prassede",
+        "address": "Via di Santa Prassede 9/A, 00184 Roma. Sujeta a apertura."
+      },
+      {
+        "id": "d3p2",
+        "name": "Coliseo Romano (10:00 hr)",
+        "address": "Piazza del Colosseo 1, 00184 Roma. Arena y niveles primero y segundo."
+      },
+      {
+        "id": "d3p3",
+        "name": "Foro Romano",
+        "address": "Via della Salara Vecchia 5/6, 00186 Roma."
+      },
+      {
+        "id": "d3p4",
+        "name": "Monte Palatino",
+        "address": "Via di San Gregorio 30, 00186 Roma."
+      },
+      {
+        "id": "d3p5",
+        "name": "Basílica de San Pietro in Vincoli",
+        "address": "Piazza di San Pietro in Vincoli 4/A, 00184 Roma."
+      },
+      {
+        "id": "d3p6",
+        "name": "Piazza Venezia",
+        "address": "Piazza Venezia, 00187 Roma."
+      },
+      {
+        "id": "d3p7",
+        "name": "Vittoriano",
+        "address": "Piazza Venezia, 00186 Roma. Exterior."
+      },
+      {
+        "id": "d3p8",
+        "name": "Panteón de Roma",
+        "address": "Piazza della Rotonda, 00186 Roma. Exterior."
+      },
+      {
+        "id": "d3p9",
+        "name": "Piazza della Rotonda",
+        "address": "Piazza della Rotonda, 00186 Roma."
+      },
+      {
+        "id": "d3p10",
+        "name": "Piazza Navona",
+        "address": "Piazza Navona, 00186 Roma."
+      },
+      {
+        "id": "d3p11",
+        "name": "Opcional Free Tour por Roma (15:00 hr) duración 1h 30m",
+        "address": "- Santa María del Popolo Piazza del Popolo, 12, 00187 Roma RM, Italia"
+      }
+    ],
+    "notes": [],
+    "hotel": {
+      "name": "Hotel Santa Prassede",
+      "address": "Via di Santa Prassede 25, Roma, Italia"
+    }
+  },
+  {
+    "number": 4,
+    "title": "Vaticano y Trastevere",
+    "date": "Jueves 19 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d4p1",
+        "name": "Fontana di Trevi",
+        "address": "Piazza di Trevi, 00187 Roma."
+      },
+      {
+        "id": "d4p2",
+        "name": "Basílica de San Pedro",
+        "address": "Piazza San Pietro, 00120 Ciudad del Vaticano."
+      },
+      {
+        "id": "d4p3",
+        "name": "Plaza de San Pedro",
+        "address": "Piazza San Pietro, Ciudad del Vaticano."
+      },
+      {
+        "id": "d4p4",
+        "name": "Museos Vaticanos (13:30 hr)",
+        "address": "Viale Vaticano, 00165 Roma."
+      },
+      {
+        "id": "d4p5",
+        "name": "Capilla Sixtina",
+        "address": "Interior de los Museos Vaticanos, Ciudad del Vaticano."
+      },
+      {
+        "id": "d4p6",
+        "name": "Castel Sant’Angelo",
+        "address": "Lungotevere Castello 50, 00193 Roma. Exterior."
+      },
+      {
+        "id": "d4p7",
+        "name": "Ponte Sant’Angelo",
+        "address": "Ponte Sant’Angelo, 00186 Roma."
+      },
+      {
+        "id": "d4p8",
+        "name": "Fontana dell’Acqua Paola",
+        "address": "Via Garibaldi, 00153 Roma. Opcional."
+      },
+      {
+        "id": "d4p9",
+        "name": "Barrio de Trastevere",
+        "address": "Zona de Via della Lungaretta y Piazza Trilussa, 00153 Roma."
+      },
+      {
+        "id": "d4p10",
+        "name": "Piazza Trilussa",
+        "address": "Piazza Trilussa, 00153 Roma."
+      },
+      {
+        "id": "d4p11",
+        "name": "Opcional Free tour por los alrededores del Vaticano (10:00 hr) duración 1h 30m",
+        "address": "- Piazza Cavour, Roma Italia"
+      }
+    ],
+    "notes": [],
+    "hotel": {
+      "name": "Hotel Santa Prassede",
+      "address": "Via di Santa Prassede 25, Roma, Italia"
+    }
+  },
+  {
+    "number": 5,
+    "title": "Roma → Milán",
+    "date": "Viernes 20 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d5p1",
+        "name": "San Bernardino alle Ossa",
+        "address": "Piazza Santo Stefano, 20122 Milano. Sujeto a apertura."
+      },
+      {
+        "id": "d5p2",
+        "name": "Duomo de Milán",
+        "address": "Piazza del Duomo, 20122 Milano. Exterior."
+      },
+      {
+        "id": "d5p3",
+        "name": "Galleria Vittorio Emanuele II",
+        "address": "Piazza del Duomo, 20123 Milano."
+      },
+      {
+        "id": "d5p4",
+        "name": "Colonne di San Lorenzo",
+        "address": "Corso di Porta Ticinese, 20123 Milano."
+      },
+      {
+        "id": "d5p5",
+        "name": "Darsena de Milán",
+        "address": "Piazza XXIV Maggio, 20123 Milano."
+      },
+      {
+        "id": "d5p6",
+        "name": "Barrio de Navigli",
+        "address": "Alzaia Naviglio Grande y Ripa di Porta Ticinese, 20144 Milano."
+      }
+    ],
+    "notes": [],
+    "hotel": {
+      "name": "NH Collection Milano Porta Nuova",
+      "address": "Via Melchiorre Gioia 6, Milán, Italia"
+    }
+  },
+  {
+    "number": 6,
+    "title": "Venecia desde Milán",
+    "date": "Sábado 21 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d6p1",
+        "name": "Puente de Rialto",
+        "address": "Ponte di Rialto, 30125 Venezia."
+      },
+      {
+        "id": "d6p2",
+        "name": "Gran Canal",
+        "address": "Vista desde Puente de Rialto, Venezia."
+      },
+      {
+        "id": "d6p3",
+        "name": "Plaza de San Marcos",
+        "address": "Piazza San Marco, 30124 Venezia."
+      },
+      {
+        "id": "d6p4",
+        "name": "Basílica de San Marcos (12:00 hr)",
+        "address": "Piazza San Marco 328, 30124 Venezia."
+      },
+      {
+        "id": "d6p5",
+        "name": "Palacio Ducal por fuera",
+        "address": "Piazza San Marco 1, 30124 Venezia. Exterior."
+      },
+      {
+        "id": "d6p6",
+        "name": "Puente de los Suspiros",
+        "address": "Rio di Palazzo, 30124 Venezia. Vista desde Ponte della Paglia."
+      },
+      {
+        "id": "d6p7",
+        "name": "Ponte della Paglia",
+        "address": "Riva degli Schiavoni, 30122 Venezia."
+      },
+      {
+        "id": "d6p8",
+        "name": "Embarcadero Danieli",
+        "address": "Riva degli Schiavoni, frente al Hotel Danieli, 30122 Venezia. Góndola a contratar"
+      },
+      {
+        "id": "d6p9",
+        "name": "Librería Acqua Alta",
+        "address": "Calle Lunga Santa Maria Formosa 5176/B, 30122 Venezia."
+      },
+      {
+        "id": "d6p10",
+        "name": "Campo Santa Maria Formosa",
+        "address": "Campo Santa Maria Formosa, 30122 Venezia."
+      }
+    ],
+    "notes": [],
+    "hotel": {
+      "name": "NH Collection Milano Porta Nuova",
+      "address": "Via Melchiorre Gioia 6, Milán, Italia"
+    }
+  },
+  {
+    "number": 7,
+    "title": "Milán",
+    "date": "Domingo 22 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d7p1",
+        "name": "Bosco Verticale",
+        "address": "Via Gaetano de Castillia 11 y 13, 20124 Milano. Exterior; puede omitirse."
+      },
+      {
+        "id": "d7p2",
+        "name": "Catedral de Milán Duomo (09:30) hr",
+        "address": "Piazza del Duomo, 20122 Milano. Interior y terrazas."
+      },
+      {
+        "id": "d7p3",
+        "name": "Opcional Free tour por Milán",
+        "address": "Metro Montenapoleone, Milan, italia"
+      },
+      {
+        "id": "d7p4",
+        "name": "Castillo Sforzesco",
+        "address": "Piazza Castello, 20121 Milano. Patios y museos pendientes."
+      },
+      {
+        "id": "d7p5",
+        "name": "Barrio de Brera",
+        "address": "Zona de Via Brera, 20121 Milano."
+      },
+      {
+        "id": "d7p6",
+        "name": "Teatro alla Scala",
+        "address": "Via Filodrammatici 2, 20121 Milano. Exterior."
+      },
+      {
+        "id": "d7p7",
+        "name": "Piazza della Scala",
+        "address": "Piazza della Scala, 20121 Milano."
+      },
+      {
+        "id": "d7p8",
+        "name": "Via Montenapoleone",
+        "address": "Via Monte Napoleone, 20121 Milano."
+      },
+      {
+        "id": "d7p9",
+        "name": "Quadrilatero della Moda",
+        "address": "Via Monte Napoleone y Via della Spiga, 20121 Milano."
+      },
+      {
+        "id": "d7p10",
+        "name": "Free Tour por Milan (11:30 hr) duración 2hr 30m",
+        "address": "- Via Alessandro Manzoni, 31, 20121 Milano MI, Italia"
+      }
+    ],
+    "notes": [],
+    "hotel": {
+      "name": "NH Collection Milano Porta Nuova",
+      "address": "Via Melchiorre Gioia 6, Milán, Italia"
+    }
+  },
+  {
+    "number": 8,
+    "title": "Milán → Madrid",
+    "date": "Lunes 23 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d8p1",
+        "name": "Opcional Free tour por el centro de Madrid",
+        "address": "Tienda de Civitatis, Calle de la Montera 32, 28013 Madrid."
+      },
+      {
+        "id": "d8p2",
+        "name": "Opcional Plaza de Oriente",
+        "address": "Plaza de Oriente, 28013 Madrid. Opcional."
+      },
+      {
+        "id": "d8p3",
+        "name": "Opcional, caminata hacia la Gran Via",
+        "address": "Gran Vía, 30, Centro, Centro, 28004 Madrid, España"
+      }
+    ],
+    "notes": [
+      "TRASLADO HOTE - AEROPUERTO MILAN (MALPENSA)",
+      "POR TREN, SALE DE PORTA GARIBALDI (6:05 y 06:35) 15€ POR PERSONA 51 MIN DE TRAYECTO",
+      "POR BUS TERRAVISION -SALE DE ESTACION CENTRAL (6:30 Y 7:00) 10€ POR PERSONA 50 MIN DE TRAYECTO",
+      "POR UBER O TAXI, POR TAXI VAN APROXIMADAMENTE 120 € POR LOS CUATRO, 50 MIN DE TRAYECTO APROX.",
+      "TRASLADO AEROPUERTO – AIRBNB MADRID",
+      "BUS LINEA EMT 203 EXPRESS AEROPUERTO CADA 15 MIN, 6 POR PERSONA, 30 A 40 MIN DE TRAYECTO",
+      "METRO, SE DESCARTA POR TRANSBORDOS",
+      "UBER O TAXI VAN, 53 € POR LOS 4, 35 A 30 MIN DE TRAYECTO",
+      "Nota: las opciones seran dependiendo de como lleguen de cansados"
+    ],
+    "hotel": {
+      "name": "Airbnb",
+      "address": "Carrera de San Jerónimo 44, Madrid, España"
+    }
+  },
+  {
+    "number": 9,
+    "title": "Madrid y Bernabéu",
+    "date": "Martes 24 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d9p1",
+        "name": "Puerta del Sol",
+        "address": "Puerta del Sol, 28013 Madrid. Paso hacia el Palacio."
+      },
+      {
+        "id": "d9p2",
+        "name": "Calle del Arenal",
+        "address": "Calle del Arenal, 28013 Madrid. Paso peatonal."
+      },
+      {
+        "id": "d9p3",
+        "name": "Palacio Real de Madrid (10:00 hr)",
+        "address": "Calle de Bailén s/n, 28071 Madrid. Interior."
+      },
+      {
+        "id": "d9p4",
+        "name": "Catedral de la Almudena",
+        "address": "Calle de Bailén 10, 28013 Madrid. Exterior."
+      },
+      {
+        "id": "d9p5",
+        "name": "Plaza de Oriente",
+        "address": "Plaza de Oriente, 28013 Madrid."
+      },
+      {
+        "id": "d9p6",
+        "name": "Opcional Barrio La Latina (solo si hay tiempo)",
+        "address": "Plaza de los carros, Madrid, España"
+      },
+      {
+        "id": "d9p7",
+        "name": "Plaza Mayor",
+        "address": "Plaza Mayor, 28012 Madrid. Paso en el regreso."
+      },
+      {
+        "id": "d9p8",
+        "name": "NH Collection Madrid Eurobuilding",
+        "address": "Calle del Padre Damián 23, 28036 Madrid. Hospitality VIP; no hospedaje."
+      },
+      {
+        "id": "d9p9",
+        "name": "Estadio Santiago Bernabéu",
+        "address": "Avenida de Concha Espina 1, 28036 Madrid. Partido del Real Madrid."
+      }
+    ],
+    "notes": [],
+    "hotel": {
+      "name": "Airbnb",
+      "address": "Carrera de San Jerónimo 44, Madrid, España"
+    }
+  },
+  {
+    "number": 10,
+    "title": "Consuegra y Toledo",
+    "date": "Miércoles 25 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d10p1",
+        "name": "Punto de salida junto al Museo Naval",
+        "address": "Paseo del Prado 3, 28014 Madrid."
+      },
+      {
+        "id": "d10p2",
+        "name": "Molinos de viento de Consuegra (09:30 hr)",
+        "address": "Cerro Calderico, 45700 Consuegra, Toledo. Entrada a un molino."
+      },
+      {
+        "id": "d10p3",
+        "name": "Plaza de Zocodover",
+        "address": "Plaza de Zocodover, 45001 Toledo."
+      },
+      {
+        "id": "d10p4",
+        "name": "Calle Comercio",
+        "address": "Calle Comercio, 45001 Toledo."
+      },
+      {
+        "id": "d10p5",
+        "name": "Catedral Primada de Toledo",
+        "address": "Calle Cardenal Cisneros 1, 45002 Toledo. Exterior."
+      },
+      {
+        "id": "d10p6",
+        "name": "Mirador del Valle",
+        "address": "Carretera de Circunvalación, 45004 Toledo."
+      }
+    ],
+    "notes": [
+      "Nota: este dia los lugares a visitor y opciones de comida los proporciona el guía, como recomendación llevar refrigerio"
+    ],
+    "hotel": {
+      "name": "Airbnb",
+      "address": "Carrera de San Jerónimo 44, Madrid, España"
+    }
+  },
+  {
+    "number": 11,
+    "title": "Madrid y Barrio de las Letras",
+    "date": "Jueves 26 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d11p1",
+        "name": "Fuente de Cibeles",
+        "address": "Plaza de Cibeles, 28014 Madrid."
+      },
+      {
+        "id": "d11p2",
+        "name": "Palacio de Cibeles",
+        "address": "Plaza de Cibeles 1, 28014 Madrid. Exterior."
+      },
+      {
+        "id": "d11p3",
+        "name": "Puerta de Alcalá",
+        "address": "Plaza de la Independencia, 28001 Madrid."
+      },
+      {
+        "id": "d11p4",
+        "name": "Opcional Free tour por Barrio de las Letras",
+        "address": "Plaza del Sol, estatua ecuestre, Madrid, España."
+      },
+      {
+        "id": "d11p5",
+        "name": "Parque de El Retiro",
+        "address": "Plaza de la Independencia 7, 28001 Madrid."
+      },
+      {
+        "id": "d11p6",
+        "name": "Estanque Grande de El Retiro",
+        "address": "Paseo de Colombia, Parque de El Retiro, 28009 Madrid."
+      },
+      {
+        "id": "d11p7",
+        "name": "Monumento a Alfonso XII",
+        "address": "Estanque Grande, Parque de El Retiro, 28009 Madrid."
+      },
+      {
+        "id": "d11p8",
+        "name": "Rowland Bar",
+        "address": "Avenida de Baviera 9, 28028 Madrid."
+      }
+    ],
+    "notes": [
+      "Nota: el lugar de encuentro para el Free Tour puede cambiar, las opciones del parque del retiro son opcionales, se puede visitor Museo del Prado, por la tarde es sin costo de 18:00 a 20:00 hr"
+    ],
+    "hotel": {
+      "name": "Airbnb",
+      "address": "Carrera de San Jerónimo 44, Madrid, España"
+    }
+  },
+  {
+    "number": 12,
+    "title": "Madrid → Barcelona",
+    "date": "Viernes 27 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d12p1",
+        "name": "Plaça d’Espanya",
+        "address": "Plaça d’Espanya, 08014 Barcelona."
+      },
+      {
+        "id": "d12p2",
+        "name": "Basílica de la Sagrada Familia",
+        "address": "Carrer de Mallorca 401, 08013 Barcelona."
+      },
+      {
+        "id": "d12p3",
+        "name": "Plaça de Gaudí",
+        "address": "Plaça de Gaudí, 08013 Barcelona."
+      },
+      {
+        "id": "d12p4",
+        "name": "Plaça de la Sagrada Família (15:30 hr)",
+        "address": "Plaça de la Sagrada Família, 08013 Barcelona."
+      },
+      {
+        "id": "d12p5",
+        "name": "Avinguda de Gaudí",
+        "address": "Avinguda de Gaudí, 08025 Barcelona."
+      },
+      {
+        "id": "d12p6",
+        "name": "Recinte Modernista de Sant Pau",
+        "address": "Carrer de Sant Antoni Maria Claret 167, 08025 Barcelona. Exterior."
+      }
+    ],
+    "notes": [],
+    "hotel": {
+      "name": "Occidental Barcelona 1929",
+      "address": "Carrer de la Creu Coberta 20–22, Barcelona, España"
+    }
+  },
+  {
+    "number": 13,
+    "title": "Barcelona",
+    "date": "Sábado 28 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d13p1",
+        "name": "Park Güell (09:30 hr)",
+        "address": "Carrer d’Olot s/n, 08024 Barcelona."
+      },
+      {
+        "id": "d13p2",
+        "name": "Casa Milà (La Pedrera)",
+        "address": "Passeig de Gràcia 92, 08008 Barcelona. Exterior."
+      },
+      {
+        "id": "d13p3",
+        "name": "Casa Batlló",
+        "address": "Passeig de Gràcia 43, 08007 Barcelona. Exterior."
+      },
+      {
+        "id": "d13p4",
+        "name": "Passeig de Gràcia",
+        "address": "Passeig de Gràcia, 08007 Barcelona."
+      },
+      {
+        "id": "d13p5",
+        "name": "Plaça de Catalunya",
+        "address": "Plaça de Catalunya, 08002 Barcelona."
+      },
+      {
+        "id": "d13p6",
+        "name": "La Rambla",
+        "address": "La Rambla, 08002 Barcelona."
+      },
+      {
+        "id": "d13p7",
+        "name": "Mercado de la Boqueria",
+        "address": "La Rambla 91, 08001 Barcelona."
+      },
+      {
+        "id": "d13p8",
+        "name": "Barrio Gótico",
+        "address": "Centro histórico, 08002 Barcelona."
+      },
+      {
+        "id": "d13p9",
+        "name": "Catedral de Barcelona",
+        "address": "Pla de la Seu s/n, 08002 Barcelona. Exterior."
+      },
+      {
+        "id": "d13p10",
+        "name": "Pont del Bisbe",
+        "address": "Carrer del Bisbe, 08002 Barcelona."
+      },
+      {
+        "id": "d13p11",
+        "name": "Plaça de Sant Jaume",
+        "address": "Plaça de Sant Jaume, 08002 Barcelona."
+      },
+      {
+        "id": "d13p12",
+        "name": "Plaça del Rei",
+        "address": "Plaça del Rei, 08002 Barcelona."
+      },
+      {
+        "id": "d13p13",
+        "name": "Barrio de El Born",
+        "address": "Passeig del Born, 08003 Barcelona."
+      },
+      {
+        "id": "d13p14",
+        "name": "Basílica de Santa Maria del Mar",
+        "address": "Plaça de Santa Maria 1, 08003 Barcelona. Exterior."
+      },
+      {
+        "id": "d13p15",
+        "name": "Port Vell",
+        "address": "Port Vell, 08039 Barcelona."
+      },
+      {
+        "id": "d13p16",
+        "name": "Moll de la Fusta",
+        "address": "Passeig de Colom, 08002 Barcelona."
+      }
+    ],
+    "notes": [
+      "Nota: este es un recorrido sugerido, en Barcelona sera importante priorizar transportee n Uber o Taxi por el poco tiempo"
+    ],
+    "hotel": {
+      "name": "Occidental Barcelona 1929",
+      "address": "Carrer de la Creu Coberta 20–22, Barcelona, España"
+    }
+  },
+  {
+    "number": 14,
+    "title": "Barcelona → México → Monterrey",
+    "date": "Domingo 29 de noviembre de 2026",
+    "places": [
+      {
+        "id": "d14p1",
+        "name": "AEROBUS",
+        "address": "Gran Via de les Corts Catalanes, 368, Sants-Montjuïc, 08014 Barcelona, España."
+      }
+    ],
+    "notes": [
+      "TRASLADO HOTEL AEROPUERTO POR AEROBUS, TRAYECTO DE 25 A 30 MINUTOS, COSTO 8 € POR PERSONA"
+    ],
+    "hotel": {
+      "name": "Occidental Barcelona 1929",
+      "address": "Carrer de la Creu Coberta 20–22, Barcelona, España"
+    }
+  }
+]

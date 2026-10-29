@@ -1,0 +1,43 @@
+FAMILIA ALMANZA PARRA — NUESTRA RUTA
+Publicación GRATIS con GitHub Pages + Firebase Spark
+
+A) GITHUB PAGES
+1. Descomprime este ZIP.
+2. En github.com crea un repositorio PÚBLICO llamado familia-almanza-parra.
+3. En el repositorio elige Add file > Upload files y arrastra TODOS los archivos que hay dentro de esta carpeta (index.html debe quedar en la raíz).
+4. Pulsa Commit changes.
+5. En Settings > Pages, Source: Deploy from a branch; Branch: main, Folder: /(root); Save.
+6. Abre la URL que indique Pages: https://TU_USUARIO.github.io/familia-almanza-parra/
+
+B) FIREBASE: SINCRONIZAR VISITAS
+1. Ve a console.firebase.google.com, crea un proyecto en plan Spark.
+2. Registra una app Web (icono </>), sin necesidad de Firebase Hosting.
+3. Copia apiKey, authDomain, projectId y appId de firebaseConfig.
+4. En Authentication > Sign-in method habilita Anonymous.
+5. En Firestore Database pulsa Create database; usa una región y arranca con reglas bloqueadas (production mode).
+6. En Firestore > Rules reemplaza todo por el contenido del archivo firestore.rules y publica.
+7. Edita firebase-config.js, cambia REEMPLAZA_* por los 4 valores de tu proyecto; conserva comillas y nombres de campos.
+8. Vuelve a GitHub > repositorio > firebase-config.js > Edit > Commit changes.
+9. En la app, abre Familia, escribe una clave larga (12-80 caracteres alfanuméricos, _ o -), pulsa Conectar familia, luego Compartir enlace.
+10. Comparte el enlace completo (incluida la parte ?grupo=...) SOLO con los otros integrantes. Cada uno lo abre y tendrá la sincronización.
+
+C) INSTALAR EN IPHONE
+En Safari abre la URL pública > botón Compartir > Añadir a pantalla de inicio.
+
+LÍMITES
+- GitHub Pages gratis requiere repositorio público; no publiques datos personales o sensibles.
+- Firebase Spark tiene cuotas gratuitas; NO cambies al plan Blaze.
+- Sin Firebase el progreso solo se guarda localmente.
+- La búsqueda de comida se ordena por cercanía; para consultar estrellas debes abrir Google Maps.
+- Las fotos representativas se buscan por Internet.
+- El código compartido NO es contraseña con permisos individuales: cualquier persona que conozca el enlace/código puede ver y cambiar las visitas.
+
+ACTUALIZACIÓN DE IMÁGENES Y FECHAS:
+Los botones usan fechas abreviadas (16 nov.). Fotografías automáticas de Wikipedia eliminadas. Las ilustraciones IA se utilizan únicamente para seis lugares reconocibles y se almacenan localmente en imagenes-ia; el resto utiliza iconos representativos. Las ilustraciones de IA no son fotografías documentales. Al actualizar GitHub, subir la carpeta imagenes-ia completa y el nuevo index.html.
+
+ACTUALIZACIÓN RESTAURANTES (v3)
+- Se eliminó Overpass: ahora la búsqueda abre Google Maps directamente según la ubicación del iPhone.
+- Se ofrece un mapa incrustado de cortesía, sujeto a que Google permita mostrarlo en el navegador.
+- Las puntuaciones y el orden de los tres mejores deben verse en Google Maps; no se pueden integrar automáticamente en la web sin Google Places API con facturación.
+- Pie de página: Pipol Travel 2026.
+- Para actualizar en GitHub sube index.html y sw.js y realiza Commit changes. Si ya configuraste firebase-config.js, consérvalo.
