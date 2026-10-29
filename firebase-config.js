@@ -5,4 +5,3 @@ window.FAMILIA_FIREBASE_CONFIG = {
   projectId: "familia-almanza-parra-58eb0",
   appId: "1:871558779331:web:6a2fb1b36cce2ca0fded76"
 };
-  
